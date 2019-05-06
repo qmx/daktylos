@@ -1,6 +1,8 @@
 # daktylos - a simple memory usage counting allocator
 
-This crate gets the excellent [custom wrapper example](https://doc.rust-lang.org/std/alloc/struct.System.html) that keeps track of memory usage, and packages it into a easy-to-use crate.
+This crate gets the excellent [custom wrapper
+example](https://doc.rust-lang.org/std/alloc/struct.System.html) that keeps
+track of memory usage, and packages it into an easy-to-use crate.
 
 ## Usage
 
