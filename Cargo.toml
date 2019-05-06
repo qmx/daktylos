@@ -1,0 +1,10 @@
+[package]
+name = "daktylos"
+version = "0.1.0"
+authors = ["Douglas Campos <qmx@qmx.me>"]
+description = "a simple memory-counting allocator"
+homepage = "https://github.com/qmx/daktylos"
+license = "Apache-2.0/MIT"
+edition = "2018"
+
+[dependencies]
